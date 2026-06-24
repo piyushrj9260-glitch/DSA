@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/piyushrj9260-glitch/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/piyushrj9260-glitch/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/piyushrj9260-glitch/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/piyushrj9260-glitch/DSA/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/piyushrj9260-glitch/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/piyushrj9260-glitch/DSA/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
