@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/piyushrj9260-glitch/DSA/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/piyushrj9260-glitch/DSA/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/piyushrj9260-glitch/DSA/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/piyushrj9260-glitch/DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/piyushrj9260-glitch/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/piyushrj9260-glitch/DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,8 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/piyushrj9260-glitch/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/piyushrj9260-glitch/DSA/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/piyushrj9260-glitch/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
