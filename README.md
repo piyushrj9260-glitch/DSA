@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyushrj9260-glitch/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/piyushrj9260-glitch/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/piyushrj9260-glitch/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/piyushrj9260-glitch/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/piyushrj9260-glitch/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyushrj9260-glitch/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/piyushrj9260-glitch/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
