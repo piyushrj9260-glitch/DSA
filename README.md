@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0896-monotonic-array) |
 ## Two Pointers
 |  |
 | ------- |
