@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/piyushrj9260-glitch/DSA/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0867-transpose-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0867-transpose-matrix) |
 ## Sorting
 |  |
 | ------- |
