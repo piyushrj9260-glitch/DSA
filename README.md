@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/piyushrj9260-glitch/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/piyushrj9260-glitch/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/piyushrj9260-glitch/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/piyushrj9260-glitch/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -89,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/piyushrj9260-glitch/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
