@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/piyushrj9260-glitch/DSA/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0509-fibonacci-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/piyushrj9260-glitch/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1550-three-consecutive-odds](https://github.com/piyushrj9260-glitch/DSA/tree/master/1550-three-consecutive-odds) |
 | [1748-sum-of-unique-elements](https://github.com/piyushrj9260-glitch/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
