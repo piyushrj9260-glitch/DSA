@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushrj9260-glitch/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/piyushrj9260-glitch/DSA/tree/master/0645-set-mismatch) |
+| [0739-daily-temperatures](https://github.com/piyushrj9260-glitch/DSA/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/piyushrj9260-glitch/DSA/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/piyushrj9260-glitch/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
