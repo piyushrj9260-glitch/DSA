@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/piyushrj9260-glitch/DSA/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0509-fibonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2544-alternating-digit-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/2544-alternating-digit-sum) |
 | [2582-pass-the-pillow](https://github.com/piyushrj9260-glitch/DSA/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/piyushrj9260-glitch/DSA/tree/master/2652-sum-multiples) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/piyushrj9260-glitch/DSA/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
