@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushrj9260-glitch/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/piyushrj9260-glitch/DSA/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/piyushrj9260-glitch/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/piyushrj9260-glitch/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/piyushrj9260-glitch/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/piyushrj9260-glitch/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/piyushrj9260-glitch/DSA/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/piyushrj9260-glitch/DSA/tree/master/0645-set-mismatch) |
