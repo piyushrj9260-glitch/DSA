@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/piyushrj9260-glitch/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/piyushrj9260-glitch/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/piyushrj9260-glitch/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/piyushrj9260-glitch/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/piyushrj9260-glitch/DSA/tree/master/0342-power-of-four) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/piyushrj9260-glitch/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/piyushrj9260-glitch/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/piyushrj9260-glitch/DSA/tree/master/0067-add-binary) |
 | [0796-rotate-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/piyushrj9260-glitch/DSA/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/piyushrj9260-glitch/DSA/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0867-transpose-matrix) |
 | [2582-pass-the-pillow](https://github.com/piyushrj9260-glitch/DSA/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/piyushrj9260-glitch/DSA/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/piyushrj9260-glitch/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/piyushrj9260-glitch/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0268-missing-number) |
