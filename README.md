@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/piyushrj9260-glitch/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/piyushrj9260-glitch/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1550-three-consecutive-odds](https://github.com/piyushrj9260-glitch/DSA/tree/master/1550-three-consecutive-odds) |
 | [1748-sum-of-unique-elements](https://github.com/piyushrj9260-glitch/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/piyushrj9260-glitch/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/piyushrj9260-glitch/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/piyushrj9260-glitch/DSA/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/piyushrj9260-glitch/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Matrix
 |  |
 | ------- |
