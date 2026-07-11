@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/piyushrj9260-glitch/DSA/tree/master/2363-merge-similar-items) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/piyushrj9260-glitch/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/piyushrj9260-glitch/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2643-row-with-maximum-ones](https://github.com/piyushrj9260-glitch/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/piyushrj9260-glitch/DSA/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/piyushrj9260-glitch/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3452-sum-of-good-numbers](https://github.com/piyushrj9260-glitch/DSA/tree/master/3452-sum-of-good-numbers) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0867-transpose-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/piyushrj9260-glitch/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/piyushrj9260-glitch/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
