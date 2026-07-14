@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/piyushrj9260-glitch/DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/piyushrj9260-glitch/DSA/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/piyushrj9260-glitch/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/piyushrj9260-glitch/DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/piyushrj9260-glitch/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/piyushrj9260-glitch/DSA/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/piyushrj9260-glitch/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/piyushrj9260-glitch/DSA/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/piyushrj9260-glitch/DSA/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/piyushrj9260-glitch/DSA/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/piyushrj9260-glitch/DSA/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0867-transpose-matrix) |
 | [2582-pass-the-pillow](https://github.com/piyushrj9260-glitch/DSA/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/piyushrj9260-glitch/DSA/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
