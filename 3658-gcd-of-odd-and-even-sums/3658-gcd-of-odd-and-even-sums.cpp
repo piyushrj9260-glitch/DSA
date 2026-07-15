@@ -26,6 +26,8 @@ public:
         for(int i = m;i>=2;i--){
             if(sumOdd%i==0 && sumEven%i == 0){
                 return i;
+            }else{
+                continue;
             }
         }
         return 1;
