@@ -37,7 +37,7 @@ public:
             ans.push_back(level);
         }
         vector<vector<int>>res;
-        for(int i=(int)ans.size()-1;i>=0;i--){
+        for(int i=ans.size()-1;i>=0;i--){
             res.push_back(ans[i]);
         }
         return res;
