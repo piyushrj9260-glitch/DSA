@@ -23,6 +23,9 @@ public:
         if(left != NULL && right != NULL){
             return root;
         }
+        if(left == NULL && right == NULL){
+            return NULL;
+        }
 
         return (left != NULL)? left : right;
     }
