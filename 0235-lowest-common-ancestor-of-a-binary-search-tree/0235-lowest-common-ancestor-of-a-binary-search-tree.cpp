@@ -25,7 +25,7 @@ public:
             return root;
         }
         if(left == NULL && right == NULL){
-            return right;
+            return NULL;
         }
 
         return (left != NULL)? left : right;
