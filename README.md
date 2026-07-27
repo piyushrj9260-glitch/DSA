@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/piyushrj9260-glitch/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0414-third-maximum-number) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/piyushrj9260-glitch/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/piyushrj9260-glitch/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/piyushrj9260-glitch/DSA/tree/master/1768-merge-strings-alternately) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/piyushrj9260-glitch/DSA/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0410-split-array-largest-sum) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/piyushrj9260-glitch/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/piyushrj9260-glitch/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/piyushrj9260-glitch/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/piyushrj9260-glitch/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/piyushrj9260-glitch/DSA/tree/master/0371-sum-of-two-integers) |
