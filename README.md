@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/piyushrj9260-glitch/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/piyushrj9260-glitch/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/piyushrj9260-glitch/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/piyushrj9260-glitch/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2363-merge-similar-items](https://github.com/piyushrj9260-glitch/DSA/tree/master/2363-merge-similar-items) |
 | [3536-maximum-product-of-two-digits](https://github.com/piyushrj9260-glitch/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
