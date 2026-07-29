@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/piyushrj9260-glitch/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2965-find-missing-and-repeated-values](https://github.com/piyushrj9260-glitch/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/piyushrj9260-glitch/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/piyushrj9260-glitch/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/piyushrj9260-glitch/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/piyushrj9260-glitch/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/piyushrj9260-glitch/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/piyushrj9260-glitch/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyushrj9260-glitch/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/3340-check-balanced-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
 |  |
 | ------- |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/piyushrj9260-glitch/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/piyushrj9260-glitch/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/piyushrj9260-glitch/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
