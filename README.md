@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/piyushrj9260-glitch/DSA/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/piyushrj9260-glitch/DSA/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/piyushrj9260-glitch/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/piyushrj9260-glitch/DSA/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3312-sorted-gcd-pair-queries](https://github.com/piyushrj9260-glitch/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/piyushrj9260-glitch/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyushrj9260-glitch/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/piyushrj9260-glitch/DSA/tree/master/1768-merge-strings-alternately) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3340-check-balanced-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/3340-check-balanced-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyushrj9260-glitch/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
 | ------- |
