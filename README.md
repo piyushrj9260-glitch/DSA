@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/piyushrj9260-glitch/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/piyushrj9260-glitch/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2965-find-missing-and-repeated-values](https://github.com/piyushrj9260-glitch/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/piyushrj9260-glitch/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/piyushrj9260-glitch/DSA/tree/master/3731-find-missing-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyushrj9260-glitch/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/piyushrj9260-glitch/DSA/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3340-check-balanced-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/3340-check-balanced-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyushrj9260-glitch/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/piyushrj9260-glitch/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2363-merge-similar-items](https://github.com/piyushrj9260-glitch/DSA/tree/master/2363-merge-similar-items) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/piyushrj9260-glitch/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/piyushrj9260-glitch/DSA/tree/master/3731-find-missing-elements) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/piyushrj9260-glitch/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/piyushrj9260-glitch/DSA/tree/master/1748-sum-of-unique-elements) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/piyushrj9260-glitch/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
