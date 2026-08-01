@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/piyushrj9260-glitch/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/piyushrj9260-glitch/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/piyushrj9260-glitch/DSA/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/piyushrj9260-glitch/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushrj9260-glitch/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/piyushrj9260-glitch/DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/piyushrj9260-glitch/DSA/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/piyushrj9260-glitch/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushrj9260-glitch/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/piyushrj9260-glitch/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/piyushrj9260-glitch/DSA/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/piyushrj9260-glitch/DSA/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/piyushrj9260-glitch/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/piyushrj9260-glitch/DSA/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/piyushrj9260-glitch/DSA/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/piyushrj9260-glitch/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/piyushrj9260-glitch/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Simulation
@@ -547,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/piyushrj9260-glitch/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
