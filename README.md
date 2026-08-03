@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyushrj9260-glitch/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/piyushrj9260-glitch/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/piyushrj9260-glitch/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1406-stone-game-iii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/piyushrj9260-glitch/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/piyushrj9260-glitch/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/piyushrj9260-glitch/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/piyushrj9260-glitch/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Simulation
 |  |
@@ -562,4 +565,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/piyushrj9260-glitch/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/piyushrj9260-glitch/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
