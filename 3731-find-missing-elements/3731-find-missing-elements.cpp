@@ -6,9 +6,9 @@ public:
         int mini = nums[0];
         int max = nums[n-1];
         vector<int>ans;
-        unordered_set<int>st(nums.begin(),nums.end());
-        for(int i=mini;i<=max;i++){
-            if(st.find(i) == st.end()){
+        set<int>st(nums.begin(),nums.end());
+        for(int i=mini+1;i<=max-1;i++){
+            if(st.count(i) == 0){
                 ans.push_back(i);
             }
         }
