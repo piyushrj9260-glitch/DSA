@@ -1,0 +1,41 @@
+class Solution {
+public:
+    void dfs(int node, vector<vector<int>>& adj, vector<int>& vis) {
+        vis[node] = 1;
+
+        for (int next : adj[node]) {
+            if (!vis[next])
+                dfs(next, adj, vis);
+        }
+    }
+
+    vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
+
+        vector<vector<int>> adj(n);
+
+        for (auto &e : invocations)
+            adj[e[0]].push_back(e[1]);
+
+        vector<int> vis(n, 0);
+
+        dfs(k, adj, vis);
+
+      
+        for (auto &e : invocations) {
+            if (!vis[e[0]] && vis[e[1]]) {
+                vector<int> ans;
+                for (int i = 0; i < n; i++)
+                    ans.push_back(i);
+                return ans;
+            }
+        }
+         
+        vector<int> ans;
+        for (int i = 0; i < n; i++) {
+            if (!vis[i])
+                ans.push_back(i);
+        }
+
+        return ans;
+    }
+};
