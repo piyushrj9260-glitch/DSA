@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/piyushrj9260-glitch/DSA/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3312-sorted-gcd-pair-queries](https://github.com/piyushrj9260-glitch/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/piyushrj9260-glitch/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/piyushrj9260-glitch/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/piyushrj9260-glitch/DSA/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
