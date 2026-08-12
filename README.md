@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/piyushrj9260-glitch/DSA/tree/master/2363-merge-similar-items) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/piyushrj9260-glitch/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/piyushrj9260-glitch/DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyushrj9260-glitch/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/piyushrj9260-glitch/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/piyushrj9260-glitch/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/piyushrj9260-glitch/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/piyushrj9260-glitch/DSA/tree/master/2951-find-the-peaks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyushrj9260-glitch/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/piyushrj9260-glitch/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/piyushrj9260-glitch/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0567-permutation-in-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyushrj9260-glitch/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
