@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/piyushrj9260-glitch/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/piyushrj9260-glitch/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/piyushrj9260-glitch/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/piyushrj9260-glitch/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/piyushrj9260-glitch/DSA/tree/master/0412-fizz-buzz) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/piyushrj9260-glitch/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/piyushrj9260-glitch/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
