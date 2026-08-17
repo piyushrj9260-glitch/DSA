@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/piyushrj9260-glitch/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/piyushrj9260-glitch/DSA/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/piyushrj9260-glitch/DSA/tree/master/2029-stone-game-ix) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/piyushrj9260-glitch/DSA/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/piyushrj9260-glitch/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1563-stone-game-v](https://github.com/piyushrj9260-glitch/DSA/tree/master/1563-stone-game-v) |
 | [1748-sum-of-unique-elements](https://github.com/piyushrj9260-glitch/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/piyushrj9260-glitch/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/piyushrj9260-glitch/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/piyushrj9260-glitch/DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/piyushrj9260-glitch/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/piyushrj9260-glitch/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Simulation
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/piyushrj9260-glitch/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/piyushrj9260-glitch/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/piyushrj9260-glitch/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
