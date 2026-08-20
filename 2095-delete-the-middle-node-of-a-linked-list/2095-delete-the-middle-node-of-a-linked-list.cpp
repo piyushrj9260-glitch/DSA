@@ -10,39 +10,20 @@
  */
 class Solution {
 public:
-    int sizeOfLL(ListNode* head){
-        int cnt = 0;
-        ListNode* temp = head;
-        while(temp != NULL){
-            cnt++;
-            temp = temp->next;
-        }
-        return cnt;
-    }
-
-    ListNode* deleteMid(ListNode* head,int n){
-        if(head == NULL){
-            return head;
-        }
-        if(n == 1){
+    ListNode* deleteMiddle(ListNode* head) {
+        if(head == NULL || head->next == NULL){
             return NULL;
         }
-        int cnt = 1;
-        ListNode* temp = head;
-        ListNode* prev = NULL;
-        while(temp != NULL && cnt<n){
-            cnt++;
-            prev = temp;
-            temp = temp->next;
+        ListNode* fast = head;
+        ListNode* slow = head;
+        ListNode* prev = slow;
+        while(fast != NULL && fast->next != NULL){
+            prev = slow;
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        prev->next = temp->next;
-        delete temp;
+        prev->next = slow->next;
+        delete slow;
         return head;
-    }
-
-    ListNode* deleteMiddle(ListNode* head) {
-        int size = sizeOfLL(head);
-        int n = (size/2) + 1;
-        return deleteMid(head,n);
     }
 };
