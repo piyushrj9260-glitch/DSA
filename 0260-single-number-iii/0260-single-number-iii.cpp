@@ -1,17 +1,26 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        vector<int>ans;
-        unordered_map<int,int>mpp;
-        for(int x:nums){
-            mpp[x]++;
+        long long x = 0;
+
+        // XOR all numbers
+        for(int n : nums)
+            x ^= n;
+
+        // Rightmost set bit
+       long long int bit = x & -x;
+
+        int a = 0, b = 0;
+
+        // Divide numbers into two groups
+        for(int n : nums) {
+
+            if(n & bit)
+                a ^= n;
+            else
+                b ^= n;
         }
 
-        for(auto p:mpp){
-            if(p.second == 1){
-                ans.push_back(p.first);
-            }
-        }
-        return ans;
+        return {a, b};
     }
 };
