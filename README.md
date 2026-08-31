@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0567-permutation-in-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0709-to-lower-case](https://github.com/piyushrj9260-glitch/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyushrj9260-glitch/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
