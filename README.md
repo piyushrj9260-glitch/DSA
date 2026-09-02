@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/piyushrj9260-glitch/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/piyushrj9260-glitch/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/piyushrj9260-glitch/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/piyushrj9260-glitch/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/piyushrj9260-glitch/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/piyushrj9260-glitch/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/piyushrj9260-glitch/DSA/tree/master/0739-daily-temperatures) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/piyushrj9260-glitch/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/piyushrj9260-glitch/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 ## Game Theory
