@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/piyushrj9260-glitch/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/piyushrj9260-glitch/DSA/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/piyushrj9260-glitch/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/piyushrj9260-glitch/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/piyushrj9260-glitch/DSA/tree/master/0415-add-strings) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/piyushrj9260-glitch/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/piyushrj9260-glitch/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyushrj9260-glitch/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/piyushrj9260-glitch/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/piyushrj9260-glitch/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/piyushrj9260-glitch/DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/piyushrj9260-glitch/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/piyushrj9260-glitch/DSA/tree/master/0735-asteroid-collision) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/piyushrj9260-glitch/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyushrj9260-glitch/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/piyushrj9260-glitch/DSA/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/piyushrj9260-glitch/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/piyushrj9260-glitch/DSA/tree/master/0739-daily-temperatures) |
