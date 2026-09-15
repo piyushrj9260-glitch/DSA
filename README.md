@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/piyushrj9260-glitch/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyushrj9260-glitch/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/piyushrj9260-glitch/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/piyushrj9260-glitch/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/piyushrj9260-glitch/DSA/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/piyushrj9260-glitch/DSA/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/piyushrj9260-glitch/DSA/tree/master/0835-image-overlap) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/piyushrj9260-glitch/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/piyushrj9260-glitch/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/piyushrj9260-glitch/DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/piyushrj9260-glitch/DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/piyushrj9260-glitch/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/piyushrj9260-glitch/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/piyushrj9260-glitch/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/piyushrj9260-glitch/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyushrj9260-glitch/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/piyushrj9260-glitch/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/piyushrj9260-glitch/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/piyushrj9260-glitch/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/piyushrj9260-glitch/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/piyushrj9260-glitch/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyushrj9260-glitch/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/piyushrj9260-glitch/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/piyushrj9260-glitch/DSA/tree/master/0739-daily-temperatures) |
