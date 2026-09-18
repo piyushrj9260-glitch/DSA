@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/piyushrj9260-glitch/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/piyushrj9260-glitch/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1748-sum-of-unique-elements](https://github.com/piyushrj9260-glitch/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2363-merge-similar-items](https://github.com/piyushrj9260-glitch/DSA/tree/master/2363-merge-similar-items) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/piyushrj9260-glitch/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyushrj9260-glitch/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/piyushrj9260-glitch/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/piyushrj9260-glitch/DSA/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/piyushrj9260-glitch/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/piyushrj9260-glitch/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyushrj9260-glitch/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/piyushrj9260-glitch/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/piyushrj9260-glitch/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/piyushrj9260-glitch/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/piyushrj9260-glitch/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/piyushrj9260-glitch/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/piyushrj9260-glitch/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/piyushrj9260-glitch/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2363-merge-similar-items](https://github.com/piyushrj9260-glitch/DSA/tree/master/2363-merge-similar-items) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyushrj9260-glitch/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
