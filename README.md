@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/piyushrj9260-glitch/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/piyushrj9260-glitch/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1406-stone-game-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/piyushrj9260-glitch/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/piyushrj9260-glitch/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyushrj9260-glitch/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushrj9260-glitch/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1140-stone-game-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/piyushrj9260-glitch/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/piyushrj9260-glitch/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1872-stone-game-viii) |
