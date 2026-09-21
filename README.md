@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyushrj9260-glitch/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3452-sum-of-good-numbers](https://github.com/piyushrj9260-glitch/DSA/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/piyushrj9260-glitch/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/piyushrj9260-glitch/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyushrj9260-glitch/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/piyushrj9260-glitch/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyushrj9260-glitch/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3477-fruits-into-baskets-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Matrix
 |  |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/piyushrj9260-glitch/DSA/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/piyushrj9260-glitch/DSA/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3477-fruits-into-baskets-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyushrj9260-glitch/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/piyushrj9260-glitch/DSA/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/piyushrj9260-glitch/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2363-merge-similar-items](https://github.com/piyushrj9260-glitch/DSA/tree/master/2363-merge-similar-items) |
+| [3477-fruits-into-baskets-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/piyushrj9260-glitch/DSA/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/piyushrj9260-glitch/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3477-fruits-into-baskets-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Merge Sort
 |  |
