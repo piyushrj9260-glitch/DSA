@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/piyushrj9260-glitch/DSA/tree/master/0645-set-mismatch) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/piyushrj9260-glitch/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/piyushrj9260-glitch/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/piyushrj9260-glitch/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/piyushrj9260-glitch/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/piyushrj9260-glitch/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/piyushrj9260-glitch/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/piyushrj9260-glitch/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1140-stone-game-ii) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/piyushrj9260-glitch/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/piyushrj9260-glitch/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/piyushrj9260-glitch/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/piyushrj9260-glitch/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/piyushrj9260-glitch/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/piyushrj9260-glitch/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/piyushrj9260-glitch/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
