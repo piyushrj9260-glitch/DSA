@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushrj9260-glitch/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/piyushrj9260-glitch/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/piyushrj9260-glitch/DSA/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/piyushrj9260-glitch/DSA/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/piyushrj9260-glitch/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/piyushrj9260-glitch/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/piyushrj9260-glitch/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/piyushrj9260-glitch/DSA/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/piyushrj9260-glitch/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/piyushrj9260-glitch/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/piyushrj9260-glitch/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyushrj9260-glitch/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/piyushrj9260-glitch/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyushrj9260-glitch/DSA/tree/master/0424-longest-repeating-character-replacement) |
