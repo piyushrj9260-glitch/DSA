@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/piyushrj9260-glitch/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/piyushrj9260-glitch/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/piyushrj9260-glitch/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/piyushrj9260-glitch/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/piyushrj9260-glitch/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/piyushrj9260-glitch/DSA/tree/master/0067-add-binary) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/piyushrj9260-glitch/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/piyushrj9260-glitch/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/piyushrj9260-glitch/DSA/tree/master/0053-maximum-subarray) |
@@ -987,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/piyushrj9260-glitch/DSA/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Iterator
@@ -1055,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/piyushrj9260-glitch/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/piyushrj9260-glitch/DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/piyushrj9260-glitch/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyushrj9260-glitch/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
