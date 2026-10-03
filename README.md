@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/piyushrj9260-glitch/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/piyushrj9260-glitch/DSA/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/piyushrj9260-glitch/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/piyushrj9260-glitch/DSA/tree/master/0048-rotate-image) |
@@ -996,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyushrj9260-glitch/DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0039-combination-sum) |
 | [1096-brace-expansion-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Iterator
