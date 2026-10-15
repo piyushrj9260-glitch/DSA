@@ -14,9 +14,9 @@ public:
         }
 
         int up = solve(i-1,j,dp);
-        int down = solve(i,j-1,dp);
+        int left = solve(i,j-1,dp);
 
-        dp[i][j] = up + down;
+        dp[i][j] = up + left;
 
         return dp[i][j];
     }
