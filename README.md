@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/piyushrj9260-glitch/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/piyushrj9260-glitch/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/piyushrj9260-glitch/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1872-stone-game-viii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/piyushrj9260-glitch/DSA/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/piyushrj9260-glitch/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/piyushrj9260-glitch/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyushrj9260-glitch/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/piyushrj9260-glitch/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/piyushrj9260-glitch/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/piyushrj9260-glitch/DSA/tree/master/0493-reverse-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/piyushrj9260-glitch/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/piyushrj9260-glitch/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/piyushrj9260-glitch/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/piyushrj9260-glitch/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -745,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/piyushrj9260-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -882,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/piyushrj9260-glitch/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/piyushrj9260-glitch/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/piyushrj9260-glitch/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/piyushrj9260-glitch/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/piyushrj9260-glitch/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/piyushrj9260-glitch/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -946,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/piyushrj9260-glitch/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/piyushrj9260-glitch/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/piyushrj9260-glitch/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/piyushrj9260-glitch/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/piyushrj9260-glitch/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/piyushrj9260-glitch/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1011,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/piyushrj9260-glitch/DSA/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/piyushrj9260-glitch/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyushrj9260-glitch/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/piyushrj9260-glitch/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1027,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/piyushrj9260-glitch/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/piyushrj9260-glitch/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Design
 |  |
 | ------- |
@@ -1125,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/piyushrj9260-glitch/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/piyushrj9260-glitch/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Geometry
 |  |
@@ -1176,4 +1186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/piyushrj9260-glitch/DSA/tree/master/0037-sudoku-solver) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
