@@ -5,18 +5,12 @@ public:
 
         int l = 0;
         int r = 1;
-        unordered_map<int,int>mp;
+        unordered_set<int>mp;
 
-        while(r < n){
-            mp[nums[l]+nums[r]]++;
-            l++;
-            r++;
-        }
-
-        for(auto it:mp){
-            if(it.second >= 2){
-                return true;
-            }
+        for(int i=1;i<n;i++){
+            int sum = nums[i]+nums[i-1];
+            if(mp.contains(sum)) return true;
+            else mp.insert(sum);
         }
         return false;
     }
