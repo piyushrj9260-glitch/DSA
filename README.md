@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/piyushrj9260-glitch/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/piyushrj9260-glitch/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/piyushrj9260-glitch/DSA/tree/master/0485-max-consecutive-ones) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/piyushrj9260-glitch/DSA/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/piyushrj9260-glitch/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/piyushrj9260-glitch/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0509-fibonacci-number) |
@@ -1198,4 +1200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
