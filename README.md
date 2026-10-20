@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/piyushrj9260-glitch/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/piyushrj9260-glitch/DSA/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/piyushrj9260-glitch/DSA/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/piyushrj9260-glitch/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushrj9260-glitch/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/piyushrj9260-glitch/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/piyushrj9260-glitch/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/piyushrj9260-glitch/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/piyushrj9260-glitch/DSA/tree/master/0877-stone-game) |
@@ -1111,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/piyushrj9260-glitch/DSA/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/piyushrj9260-glitch/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Iterator
@@ -1208,8 +1211,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
