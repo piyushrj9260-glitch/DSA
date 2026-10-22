@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/piyushrj9260-glitch/DSA/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/piyushrj9260-glitch/DSA/tree/master/0414-third-maximum-number) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/piyushrj9260-glitch/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/piyushrj9260-glitch/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/piyushrj9260-glitch/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/piyushrj9260-glitch/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/piyushrj9260-glitch/DSA/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -985,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/piyushrj9260-glitch/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/piyushrj9260-glitch/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/piyushrj9260-glitch/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/piyushrj9260-glitch/DSA/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/piyushrj9260-glitch/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/piyushrj9260-glitch/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/piyushrj9260-glitch/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1212,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/piyushrj9260-glitch/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -1219,4 +1223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/piyushrj9260-glitch/DSA/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/piyushrj9260-glitch/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
