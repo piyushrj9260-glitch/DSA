@@ -2,16 +2,17 @@ class Solution {
 public:
     int coinChange(vector<int>& coin, int t) {
         int n = coin.size();
-        vector<vector<int>> dp(n, vector<int>(t + 1, 1e9));
+        vector<vector<int>> dp(n, vector<int>(t + 1, 0));
 
         for (int j = 0; j <= t; j++) {
             if (j % coin[0] == 0) {
                 dp[0][j] = j / coin[0];
+            }else{
+                dp[0][j] = 1e9;
             }
         }
 
         for (int i = 1; i < n; i++) {
-            dp[i][0] = 0;
             for (int j = 1; j <= t; j++) {
 
                 int notPick = dp[i - 1][j];
